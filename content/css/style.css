@@ -1,0 +1,103 @@
+.navbar{
+    background-color:rgba(54, 54, 54, 0.479);
+    color: #d8be77; 
+    font-family: "Prata", serif;
+}
+ .active{
+    color: #d8be77 !important;
+}
+.bg-container1{
+    background-image: url("../../images/background1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 100vh;
+    
+}
+.bg-container1{
+    padding-top: 25%;
+    padding-left: auto;
+}
+.naslov{
+    color: #d9bf77;
+    font-family: "Prata", serif;
+}
+.my-1{
+    background-color: transparent !important;
+    color: #d9bf77 !important;
+    border: #d9bf77 !important;
+    border-radius: 0px !important;
+    font-family: "Prata", serif;
+    border: 1px solid #d9bf77 !important;
+    width: 170px;
+}
+:hover.my-1{
+    background-color:#d9bf77 !important;
+    color: white !important;
+    
+    
+}
+.logo{
+    height: 20vh;
+    border-bottom: 2px solid #d9bf77;
+    
+}
+.borderr {
+    border: 1px solid #D9BF77;
+  }
+.tekst{
+    color: #D9BF77 ;
+    font-family: "Prata", serif;
+    letter-spacing: 7px;
+}
+.bg-container2 {
+    background-image: url("../../images/banner-4.jpg");
+    color: #d9bf77;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+  }
+  h2.tekst1{
+     color: white; 
+     font-family: "Prata", serif;
+     font-size: 35px;
+  }
+  .tekst3{
+    color: #d9bf77;
+    font-family: "Prata", serif;
+  }
+  .tekstpadding{
+      padding: 100px;
+      font-size: 20px;
+  }
+  .tekst1{
+    color: white; 
+    font-family: "Prata", serif;
+  }
+  .bg-container3 {
+        background: -webkit-linear-gradient(top, #000000 0%,#444444 42%,#6A6A6A 88%) !important;
+        height: 40vh;
+        background-position: center;
+        color: gray;
+  }
+  .pics{
+      border-radius: 50%;
+      width: 7em;
+      height: 7em;
+      align-content: center;
+  }
+  .my-2{
+    background-color: white !important;
+    color: black    !important;
+    border: none !important;
+    border-radius: 0px !important;
+    font-family: "Prata", serif;
+    height: 40px;
+    width: 170px;
+    text-align: center;
+    
+}
+:hover.my-2{
+    background-color:#d9bf77 !important;
+    color: white !important;    
+}

@@ -1,0 +1,22 @@
+Section 1
+************************
+Text: BODYBUILDING & FITNESS CENTER
+-> font-family: "Prata", serif;
+-> color: #d8be77;
+
+Button Color
+------------------------
+#d9bf77
+
+
+Section 3
+************************
+- Da se napravi linear-gradient: 
+*) od gore nadolu
+*) so boja: 
+#000000
+#444444
+#6a6a6a
+
+- hover na button so boja: #d9bf77
+
